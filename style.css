@@ -1,0 +1,115 @@
+body{
+    width: 75%;
+    height: auto;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+/*#contenedor_blanco{
+    width: 40%;
+    height: 40%;
+    background-color: black;
+    margin: 20px;
+
+}*/
+
+#contenedor_blanco{
+    padding-top: 25px;
+}
+
+.card{
+    background-color: rgb(18, 18, 101);
+    height: 540px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.card-img-top{
+    border-radius: 100%;
+    width: 120px;
+    height: 120px;
+    border: solid white 6px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.card-title{
+    color: white;
+}
+
+.card-titel-dos{
+    color: darkgray;
+}
+
+.card-text{
+    color: white;
+    padding-top: 13px;
+    margin: 0;
+}
+
+.card-text-dos{
+    color: white;
+}
+
+.btn-primary{
+    border-radius: 25px;
+    background: rgb(224,17,192);
+    background: linear-gradient(0deg, rgba(224,17,192,1) 0%, rgba(188,58,188,1) 35%, rgba(161,32,241,1) 100%);
+    border: none;
+}
+
+hr{
+    background-color: white;
+}
+
+.btn-success{
+    border-radius: 100%;
+    width: 65px;
+    height: 65px;
+}
+
+.btn-uno{
+    background: rgb(241,147,166);
+    background: linear-gradient(0deg, rgba(241,147,166,1) 0%, rgba(227,99,119,1) 35%, rgba(234,18,66,1) 100%);
+    border: none;
+}
+
+.btn-dos{
+    background: rgb(147,190,241);
+    background: linear-gradient(0deg, rgba(147,190,241,1) 0%, rgba(99,130,227,1) 35%, rgba(18,41,234,1) 100%);
+    border: none;
+}
+
+.btn-tres{
+    background: rgb(227,147,241);
+    background: linear-gradient(0deg, rgba(227,147,241,1) 0%, rgba(187,99,227,1) 35%, rgba(159,18,234,1) 100%);
+    border: none;
+}
+
+.p-btn{
+    color: white;
+    margin: 0;
+}
+
+.p-btn-dos{
+    color: white;
+}
+
+.iconos{
+    font-size: 25px;
+}
+
+i{
+    color: white;
+}
+
+.flecha{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 22px;
+}
+
+.flecha-m{
+    margin-right: 250px;
+}
